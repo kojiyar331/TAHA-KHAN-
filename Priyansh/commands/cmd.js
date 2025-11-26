@@ -5,7 +5,7 @@ module.exports.config = {
     credits: "Priyansh Rajput",
     description: "Manage/Control all bot modules",
     commandCategory: "System",
-    usages: "[load/unload/loadAll/unloadAll/info] [name module]",
+    usages: "[load/unload/loadAll/unloadAll/info] [TAHA KHAN]",
     cooldowns: 2,
     dependencies: {
         "fs-extra": "",
