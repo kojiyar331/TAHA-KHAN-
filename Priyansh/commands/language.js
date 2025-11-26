@@ -5,7 +5,7 @@ module.exports.config = {
 	credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
 	description: "Change BOT language",
 	commandCategory: "System",
-	usages: "[vi] [en]",
+	usages: "[vi] [en] [urdu]",
 	cooldowns: 5
 };
 
